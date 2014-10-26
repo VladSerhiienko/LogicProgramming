@@ -1,0 +1,15 @@
+﻿clauses
+historicalEvent("Egypt", 30, "Foundation").
+historicalEvent("India", 27, "First cities").
+historicalEvent("Egypt", 27, "Pyramid Of Egypt").
+historicalEvent("Greece", 18, "First states").
+historicalEvent("Egypt", 18, "Rebellion").
+historicalEvent("Egypt", 15, "Thutmose The Third").
+historicalEvent("Greece", 13, "Trojan War").
+historicalEvent("Greece", 11, "Invasion").
+historicalEvent("Rome", 8, "Foundatation").
+historicalEvent("Greece", 11, "Olympic Games").
+historicalEvent("Rome", 6, "Republic").
+historicalEvent("Greece", 6, "Reforms Of Solon").
+historicalEvent("Persia", 6, "Babylon (Mesopotamia)").
+historicalEvent("Persia", 6, "Egypt").
